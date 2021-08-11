@@ -1,32 +1,36 @@
 {
   "files": {
-    "main.css": "/static/css/main.15eb0389.chunk.css",
-    "main.js": "/static/js/main.fd614711.chunk.js",
-    "main.js.map": "/static/js/main.fd614711.chunk.js.map",
+    "main.css": "/static/css/main.ec906f3a.chunk.css",
+    "main.js": "/static/js/main.9b3f842f.chunk.js",
+    "main.js.map": "/static/js/main.9b3f842f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3bf9d384.js",
     "runtime-main.js.map": "/static/js/runtime-main.3bf9d384.js.map",
     "static/css/2.a1596f27.chunk.css": "/static/css/2.a1596f27.chunk.css",
-    "static/js/2.14ff515e.chunk.js": "/static/js/2.14ff515e.chunk.js",
-    "static/js/2.14ff515e.chunk.js.map": "/static/js/2.14ff515e.chunk.js.map",
+    "static/js/2.7c75532b.chunk.js": "/static/js/2.7c75532b.chunk.js",
+    "static/js/2.7c75532b.chunk.js.map": "/static/js/2.7c75532b.chunk.js.map",
     "static/js/3.342ba460.chunk.js": "/static/js/3.342ba460.chunk.js",
     "static/js/3.342ba460.chunk.js.map": "/static/js/3.342ba460.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.a1596f27.chunk.css.map": "/static/css/2.a1596f27.chunk.css.map",
-    "static/css/main.15eb0389.chunk.css.map": "/static/css/main.15eb0389.chunk.css.map",
-    "static/js/2.14ff515e.chunk.js.LICENSE.txt": "/static/js/2.14ff515e.chunk.js.LICENSE.txt",
-    "static/media/8ball-500px.910ce12b.png": "/static/media/8ball-500px.910ce12b.png",
-    "static/media/8ball-back-500px.b4555b57.png": "/static/media/8ball-back-500px.b4555b57.png",
-    "static/media/8ball-tri-500px.545c245f.png": "/static/media/8ball-tri-500px.545c245f.png",
+    "static/css/main.ec906f3a.chunk.css.map": "/static/css/main.ec906f3a.chunk.css.map",
+    "static/js/2.7c75532b.chunk.js.LICENSE.txt": "/static/js/2.7c75532b.chunk.js.LICENSE.txt",
     "static/media/Cool-Cat-3985---no-background.7039a90d.png": "/static/media/Cool-Cat-3985---no-background.7039a90d.png",
     "static/media/Cool-Cat-5049---no-background.4e3e443a.png": "/static/media/Cool-Cat-5049---no-background.4e3e443a.png",
     "static/media/Cool-Cat-7722---no-background.f99ff7cf.png": "/static/media/Cool-Cat-7722---no-background.f99ff7cf.png",
-    "static/media/index.css": "/static/media/miedinger_w01_bold-webfont.b6801b98.woff"
+    "static/media/a1.37214b07.png": "/static/media/a1.37214b07.png",
+    "static/media/a2.0707f05e.png": "/static/media/a2.0707f05e.png",
+    "static/media/a3.fba95e94.png": "/static/media/a3.fba95e94.png",
+    "static/media/a4.537d7bd5.png": "/static/media/a4.537d7bd5.png",
+    "static/media/a5.7aac8f62.png": "/static/media/a5.7aac8f62.png",
+    "static/media/a6.f2325494.png": "/static/media/a6.f2325494.png",
+    "static/media/a7.309827f3.png": "/static/media/a7.309827f3.png",
+    "static/media/App.css": "/static/media/miedinger_w01_bold-webfont.b6801b98.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.3bf9d384.js",
     "static/css/2.a1596f27.chunk.css",
-    "static/js/2.14ff515e.chunk.js",
-    "static/css/main.15eb0389.chunk.css",
-    "static/js/main.fd614711.chunk.js"
+    "static/js/2.7c75532b.chunk.js",
+    "static/css/main.ec906f3a.chunk.css",
+    "static/js/main.9b3f842f.chunk.js"
   ]
 }
