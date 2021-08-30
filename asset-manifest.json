@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.57cad95b.chunk.css",
-    "main.js": "/static/js/main.fceda1e1.chunk.js",
-    "main.js.map": "/static/js/main.fceda1e1.chunk.js.map",
+    "main.js": "/static/js/main.4b972a09.chunk.js",
+    "main.js.map": "/static/js/main.4b972a09.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3bf9d384.js",
     "runtime-main.js.map": "/static/js/runtime-main.3bf9d384.js.map",
     "static/js/2.3fc76e5d.chunk.js": "/static/js/2.3fc76e5d.chunk.js",
@@ -22,12 +22,13 @@
     "static/media/a5.7aac8f62.png": "/static/media/a5.7aac8f62.png",
     "static/media/a6.f2325494.png": "/static/media/a6.f2325494.png",
     "static/media/a7.309827f3.png": "/static/media/a7.309827f3.png",
+    "static/media/ethereals.782d26cc.png": "/static/media/ethereals.782d26cc.png",
     "static/media/util-styles.css": "/static/media/miedinger_w01_bold-webfont.b6801b98.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.3bf9d384.js",
     "static/js/2.3fc76e5d.chunk.js",
     "static/css/main.57cad95b.chunk.css",
-    "static/js/main.fceda1e1.chunk.js"
+    "static/js/main.4b972a09.chunk.js"
   ]
 }
